@@ -2,6 +2,7 @@ module.exports = {
     // 站点配置
     lang: 'zh-CN',
     title: 'kvoon',
+    base:"/vpblog/",
     description: '这是我的第一个 VuePress 站点',
 
     // 主题和它的配置
