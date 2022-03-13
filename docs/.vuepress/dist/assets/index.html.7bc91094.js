@@ -1,1 +1,0 @@
-const o={key:"v-7446daa2",path:"/foo/",title:"fooooooo",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646728715e3,contributors:[{name:"kvoon-liegaai",email:"a1176079417@qq.com",commits:1}]},filePathRelative:"foo/README.md"};export{o as data};
